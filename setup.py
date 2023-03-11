@@ -29,7 +29,6 @@ setuptools.setup(
     author = "Kieran Wood",
     author_email = "kieran@canadiancoding.ca",
     description = "An easy to use personal site generator",
-    long_description = get_content("README.md", "CHANGELOG.md"),
     long_description_content_type = "text/markdown",
     project_urls = {
         "User Docs" :      "https://ezcv.readthedocs.io",
