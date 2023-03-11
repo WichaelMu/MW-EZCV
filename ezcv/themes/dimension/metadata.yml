@@ -1,7 +1,7 @@
 name: dimension
-ezcv_version: "0.3.0"
+ezcv_version: "MW-0.3.7"
 created: 2022-04-22
-updated: 2022-04-22
+updated: 2023-03-11
 folder: dimension
 required_config:
   name:

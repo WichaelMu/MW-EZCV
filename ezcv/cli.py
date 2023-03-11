@@ -513,6 +513,8 @@ def main():
     args = docopt(usage, version=version)
     logging.debug(f"[ezcv cli.main()] Arguments: {args}")
 
+    print("EZCV -- Modified by MW")
+
     if len(argv) == 1: # Print usage if no arguments are given
         print("\n", usage)
         exit()
